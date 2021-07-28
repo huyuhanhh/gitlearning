@@ -13,6 +13,7 @@ public class CommunityApplication {
     public static void main(String[] args) {
         SpringApplication.run(CommunityApplication.class, args);
 		System.out.print("fail");
+        System.out.print("sussgess");
     }
 
 }
